@@ -1,6 +1,6 @@
 # JSC370-lab2-2026-whoami
 
-TA Johnny Meng:
+TA Johnny Meng: My name is Johnny. I am a TA for JSC370.
 
 Isaac Abell:
 
